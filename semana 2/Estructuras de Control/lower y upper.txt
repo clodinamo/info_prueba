@@ -1,0 +1,4 @@
+lower() es un método de Python que se utiliza para convertir 
+una cadena de caracteres a minúsculas
+
+upper() hace lo mismo pero convierte a mayusculas
